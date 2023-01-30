@@ -4,3 +4,5 @@
 
 Paragraphs are created like this 
 Line breaks are done.
+
+I *(**love bold**)* text
