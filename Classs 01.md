@@ -23,6 +23,4 @@ Line breaks are done.
    2. kdlsnlsf
 4. dajsklfsafa
 
-![https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg](/assets/images/schoollogo)
-
 [GitHub](https://github.com/KaviousD/First-class-/edit/main/Classs%2001.md)
