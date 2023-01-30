@@ -1,10 +1,6 @@
-# Reading-notes
-First project
+# Class 01
 
-## [class01](/Reading-Notes/Class01).
+## We learned about headings from [Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
 
-Today we made a github pages site
-
-#### Class 02
-
-Class 02 Stuff
+Paragraphs are created like this 
+Line breaks are done.
