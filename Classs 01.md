@@ -17,8 +17,10 @@ Line breaks are done.
 *Everyone* must **participate** 
 1. First 15 meter run
 2. Oriented Push-ups
+<ol>
   1.Plank Push-ups
   2.Hand stand Push-ups
+  <ol>
 3. Pull-ups  
 
 
