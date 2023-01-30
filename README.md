@@ -1,6 +1,6 @@
 # Class 01 README.md
 
-## Today we learn about positive midsets: Growth Mindset
+## Today we learn about positive mindsets: Growth Mindset
 
 The **Growth mindset** is a powerful tool needed in todays society. Not having the line drawn at just intellegince and talent, but the perserverance while having fun facing challenges serching for anwsers. If I were to breakdown *Growth Midset* into a set list it would go as such:
 
