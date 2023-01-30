@@ -19,8 +19,9 @@ Line breaks are done.
 2. Oriented Push-ups
 <ol>
   1.Plank Push-ups
+<ol>
   2.Hand stand Push-ups
-  <ol>
+<ol>
 3. Pull-ups  
 
 
