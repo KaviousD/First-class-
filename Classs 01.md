@@ -21,7 +21,6 @@ Line breaks are done.
   1.Plank Push-ups
 <ol>
   2.Hand stand Push-ups
-<ol>
 3. Pull-ups  
 
 
