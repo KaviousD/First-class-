@@ -1,15 +1,16 @@
-> - The FitnessGram PACER Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.
->
-> - The test is used to measure a student's aerobic capacity as part of the FitnessGram assessment. Students run back and forth as many times as they can, each lap signaled by a beep sound. The test get progressively faster as it continues until the student reaches their max lap score.
->
-*Everyone* must **participate** 
+# Class 01 README.md
 
-1. 15 meter run
-2. High Knee/ Burpees 
-3. Push-Ups
-   1. 10-20 Normal
-   2. 10-15 Diamond
-   3. 10-20 wide
-4. Pull-Ups
+## Today we learn about positive midsets: Growth Mindset
+
+The **Growth mindset** is a powerful tool needed in todays society. Not having the line drawn at just intellegince and talent, but the perserverance while having fun facing challenges serching for anwsers. If I were to breakdown *Growth Midset* into a set list it would go as such:
+
+1. Create a Goal
+2. Find out potential challenges
+3. insert intensive research and energy
+   1. Group up with friends 
+   2. Expiriment
+   3. Test new methods and compare to others
+4. Finish your goal no matter the obstical or boundary
+
 
 [GitHub](https://github.com/KaviousD/First-class-/edit/main/Classs%2001.md)
