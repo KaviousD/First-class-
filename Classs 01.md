@@ -50,7 +50,7 @@ to bold text, add two asterisks or underscores before and after a word or phrase
 
 To achomplish the same fo italics by using 1 set of * (asterisk) P.S:3 for **strong**.
 
-# Black Quotes
+# Block Quotes
 
 When creating a blockquote, add a > in front of a paragraph
 
