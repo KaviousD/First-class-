@@ -2,5 +2,5 @@
 
 Code school Notes
 
-### [Class 01](https://github.com/KaviousD/Read-Me-/edit/main/README.md)
+### [Class 01](https://github.com/KaviousD)
 we made a Github pages site
