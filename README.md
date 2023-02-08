@@ -1,6 +1,3 @@
-# Reading-Notes
+# [Course102](reading-notes/102)
 
-Code school Notes
-
-### [Class 01](https://github.com/KaviousD)
-we made a Github pages site
+## [Course201](reading-notes/201)
