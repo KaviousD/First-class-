@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link 
+    <title>Bio question lab</title>
+</head>
+<body>
+
+    <article> Hello, my name is the obvious moment. I graduated from Middlecollegehighschool class of 2021 leaving with my high school diploma I searched for the next objective to complete only finding obstacles. I have realized that a lot of higher-paying jobs require a certification of some sort to qualify for the position. I'm currently a young investor that likes to code as you can tell. Today we learned a lot about using HTML to create interaction among users. I was born in Memphis and my favorite sport is basketball. Never had the chance to go to college due to financial issues but I will make the most of the coding opportunity presented in front of me.
+    </article>
+
+    <article> My goals for the next 5 years are:
+        <ul>
+            <li> Get certifications for computer dev</li>
+            <li> Learn to create a stable income (with different sources)</li>
+            <li> Create a working environment that is secluded</li>
+            <li>Travel to 3 different states and make business connections</li>            
+        </ul>
+    </article>
+    <button type="button" onclick="quiz()">Quick Bio quiz</button>
+    <button type="button" id="button_A">Info register</button><br>
+    
+    Q1. Can you guess the year i graduated?<br> 
+    <input type="radio" name="question1" id="correct1" >2<br>
+    <input type="radio" name="question1" >2<br>
+    <input type="radio" name="question1" >2<br>
+    <input type="radio" name="question1" >2<br>
+
+    Q2. What are my faviorate snacks<br> 
+    <input type="radio" name="question2" >2<br>
+    <input type="radio" name="question2" id="correct2" >2<br>
+    <input type="radio" name="question2" >2<br>
+    <input type="radio" name="question2" >2<br>
+
+    Q3. How many pets do you have?<br> 
+    <input type="radio" name="question3" >2<br>
+    <input type="radio" name="question3" id="correct3" >2<br>
+    <input type="radio" name="question3" >2<br>
+    <input type="radio" name="question3" >2<br>
+
+    Q4. Can you guess my work experience?<br> 
+    <input type="radio" name="question4" >2<br>
+    <input type="radio" name="question4" id="correct4" >2<br>
+    <input type="radio" name="question4" >2<br>
+    <input type="radio" name="question4" >2<br>
+
+    <input type="submit" name="submit" value="submitQuiz" onclick="result()">
+
+    <script>
+        <br>
+        function result() {
+            //body...
+            var score=0;
+           if (document.getElementsById('correct1').checked)
+           score++ 
+           {
+
+           } 
+           if (document.getElementsById('correct2').checked) 
+           score++
+           {
+                
+           } 
+           if (document.getElementsById('correct3').checked) 
+           score++
+           {
+                
+           }
+           if (document.getElementsById('correct4').checked) 
+           score++
+           {
+               
+           }  
+           alert("your score is:"+score);    
+     }
+    </script>
+
+</body>
+</html>
+
+<script src="javal.js"></script>
+

@@ -1,0 +1,49 @@
+Q1. what is 2+3?<br> 
+<input type="radio" name="question1" id="correct1" >2<br>
+<input type="radio" name="question1" >2<br>
+<input type="radio" name="question1" >2<br>
+<input type="radio" name="question1" >2<br>
+
+Q2. what is 2+3?<br> 
+<input type="radio" name="question2" >2<br>
+<input type="radio" name="question2" id="correct2" >2<br>
+<input type="radio" name="question2" >2<br>
+<input type="radio" name="question2" >2<br>
+
+Q3. what is 2+3?<br> 
+<input type="radio" name="question3" >2<br>
+<input type="radio" name="question3" id="correct3" >2<br>
+<input type="radio" name="question3" >2<br>
+<input type="radio" name="question3" >2<br>
+
+Q4. what is 2+3?><br> 
+<input type="radio" name="question" >2<br>
+<input type="radio" name="question" id="correct4" >2<br>
+<input type="radio" name="question" >2<br>
+<input type="radio" name="question" >2<br>
+
+<input type="submit" name="submit" value="submitQuiz" onclick="result()">
+
+<script>
+    <br>
+    function result() {
+        //body...
+        var score=0;
+       if (document.getElementsById('correct1').checked) 
+       {
+            score++;
+       } 
+       if (document.getElementsById('correct2').checked) 
+       {
+            score++;
+       } 
+       if (document.getElementsById('correct3').checked) 
+       {
+            score++;
+       }
+       if (document.getElementsById('correct4').checked) 
+       {
+            score++;
+       }  
+       alert("your score is:"+score);    
+ }
