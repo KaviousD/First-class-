@@ -166,4 +166,81 @@ multiply(4, 7);
 multiply(20, 20);
 multiply(0.5, 3);
 
+# Java script
+
+Compose a short poem describing how HTTP sends data between computers. 
+
++ If DNS can find the location, https sends a the location, When a message is received the code your computer can deceive- oogway kd
+ 
+Describe how HTML, CSS, and JS files are “parsed” in the browser.
+
++ The HTML files contain link elements that reference external css sheets and external javascript scripts the website first searches for these links and then starts with the CSS applied to the additions to the page. After the CSS has been added it goes to add the javascript files to the page finally rendering your desired content.
+
+How can you find images to add to a Website?
+
++ You can find images to add via google chrome and then save them to your pc
+
+How do you create a String vs a Number in JavaScript?
+
++ So a string is described as a variable enclosed in single or double quotation marks, and a number doesn't have to be enclosed in these marks.
+
+What is a Variable and why are they important in JavaScript?
+
++ A variable is a container that stores a value using the let function, this is important because when we use the let function we can store a value in the variable and recall it instead of retyping the same code over and over
+
+# HTML
+
+What is an HTML attribute?
+
++ An HTML attribute is like extra information that isn't displayed in the content you can add the class  attribute to target the element with some style
+
+Describe the Anatomy of an HTML element.
+
++ A HTML element anatomy consists of the content wrapped in opening and closing tags
+
+What is the Difference between "article" and "section" element tags?
+
++ Sections and articles are the same however sections reference the main content and article can be used to provide information that is not directly connected to the main
+
+What Elements does a “typical” website include?
+
++ A typical website includes a: main, article, section, aside information, your Nav, and the footer.
+
+How does metadata influence Search Engine Optimization?
+
++ The metadata influences the languages or the characters when the page has been full rendered. Mostly allowing you to change the lang used in your browser.
+
+How is the "meta" HTML tag used when specifying metadata?
+
++ The meta HTML tag is used by starting with the opening tag <meta> and adding the charset (or language render)  =”utf-8(the languages allowed to be rendered)”/>
+
+# Miscellaneous 
+
+What is the first step to designing a Website?
+
++ The first step to designing a web page is to decide what it is that I want from this creation.
+
+What is the most important question to answer when designing a Website?
+
++ What is the purpose of this web page and how can it help me reach my goals?
+
+# Semantics
+
+Why should you use an "h1" element over an "span" element to display a top-level heading?
+
++ The "h1" element is recognized to be the very head or top and the "span" can be used the same however it doesn't have the same value as using the correct "head" element.
+
+What are the benefits of using semantic tags in our HTML?
+
++ The benefit of using these semantic tags is that we can come to understand the reason or meaning of the codes we used.
+What is javascript
+
+Describe 2 things that require JavaScript in the Browser.
+
++ The buttons we click on to go to other pages are an example of javascript, also sites that have the option to enter information java s can run expected outputs to your rendered information like chat boxes.
+
+How can you add JavaScript to an HTML document?
+
++ We can add javascript to the document the same way we do for our CSS style sheets we just use the link attribute for rendering the styles information.
+
 
